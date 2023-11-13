@@ -15,4 +15,5 @@ int main(void) {
     printf( "Największa liczba to: %d\n", c);
   }
   return 0;
-    }
+  printf( "Koniec");
+  }
